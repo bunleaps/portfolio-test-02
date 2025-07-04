@@ -1,0 +1,17 @@
+dev@buns
+
+devbuns.com
+
+> motto
+Keep it clean, keep it clever, and ship it.
+
+## Who is Buns?
+
+I'm Bunleap – but people kept mispronouncing it, so now I go by Buns.  
+I’m a developer who likes clean code, broken things, and the thrill of making things work again.
+
+I don’t just write code – I build things that (mostly) don’t crash.
+
+Currently exploring: 🧠 AI, 🛠️ backend systems, and 🕹️ building stuff for fun.
+
+Reach me at bunleap.sorn@gmail.com or yell into the void (but email works better).
